@@ -36,3 +36,10 @@ The project is structured into three distinct layers to maintain high standards 
 2. Open the project in **Visual Studio** using the `.sln` file.
 3. Attach the `AirlineDatabase.mdf` file to your local SQL instance.
 4. Build and Run (F5).
+
+## 🖼️ System Gallery
+
+| **User Interface** | **Project Overview** |
+| :---: | :---: |
+| ![Login Screen](screenshots/login.png) | ![Registration Form](screenshots/registration.png) |
+| *Professional Centered Login* | *Passenger Registration Portal* |
